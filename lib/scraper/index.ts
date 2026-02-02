@@ -1,7 +1,7 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 import { CONFIG } from './config';
-import type { CourseRow, ResultData } from '../../app/types';
+import type { CourseRow, ResultData } from '../../types';
 import https from 'https'; 
 
 
