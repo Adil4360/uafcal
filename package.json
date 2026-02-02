@@ -1,0 +1,35 @@
+{
+  "name": "uaf-cgpa-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.2.0",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "framer-motion": "^11.17.0",
+    "lucide-react": "^0.468.0",
+    "next": "^16.1.6",
+    "next-themes": "^0.4.4",
+    "postcss": "^8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.5.1",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5",
+    "zustand": "^5.0.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
